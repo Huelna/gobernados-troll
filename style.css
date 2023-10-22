@@ -1,0 +1,35 @@
+html{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    display: grid;
+    place-items: center;
+    background-image: url(/assts/43405a3d3f78738a725e2375675ccab503ccc807.jpeg);
+
+}
+
+.container{
+    display: grid;
+    place-items: center;
+}
+
+.tituloo{
+    background-color: aliceblue;
+    color: black;
+    padding: 20px 50px;
+    border: 1px black solid;
+}
+
+.verificacion{
+    background-color: aliceblue;
+    padding: 10px 30px;
+    border: 1px black solid;
+}
+
+.info{
+    color: red;
+    background-color: aliceblue;
+    display: flex;
+    margin-top:400px ;
+}
